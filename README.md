@@ -48,6 +48,6 @@ Although the treatment group saw a slightly lower conversion rate, the differenc
 
 ## 📈 Visualization
 
-![Conversion Rate by Group](ab_test_conversion_rate.png)
+https://github.com/Holly-is-icecream/A-B-Testing-Project/blob/main/ab_test_conversion_rate.png
 
 ---
