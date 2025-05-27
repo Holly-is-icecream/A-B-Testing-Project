@@ -1,10 +1,10 @@
-# 🧪 A/B Testing Project: Does the New Landing Page Improve Conversions?
+# A/B Testing Project: Does the New Landing Page Improve Conversions?
 
 This project analyzes A/B testing data to evaluate whether a new landing page design increases user conversion rates compared to the original version.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - Source: https://www.kaggle.com/datasets/zhangluyuan/ab-testing
 - Total records: 294,478  
@@ -18,7 +18,7 @@ This project analyzes A/B testing data to evaluate whether a new landing page de
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 | Group     | Conversion Rate | Total Users | Conversions |
 |-----------|------------------|--------------|--------------|
@@ -27,18 +27,18 @@ This project analyzes A/B testing data to evaluate whether a new landing page de
 
 - **Z-score**: -1.3116  
 - **P-value**: 0.9052  
-- **Conclusion**: ❌ No statistically significant difference in conversion rates.  
+- **Conclusion**: No statistically significant difference in conversion rates.  
   > We fail to reject the null hypothesis.
 
 ---
 
-## 🧠 Interpretation
+## Interpretation
 
 Although the treatment group saw a slightly lower conversion rate, the difference is not statistically significant. This suggests that switching to the new landing page may not meaningfully improve conversions.
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 
 - Python: `Pandas`, `Scipy`, `Matplotlib`
 - Statistical Test: Z-test for proportions
@@ -46,7 +46,7 @@ Although the treatment group saw a slightly lower conversion rate, the differenc
 
 ---
 
-## 📈 Visualization
+## Visualization
 
 https://github.com/Holly-is-icecream/A-B-Testing-Project/blob/main/ab_test_conversion_rate.png
 
